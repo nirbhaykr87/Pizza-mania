@@ -1,0 +1,83 @@
+
+@media only screen and (max-width: 993px ){
+  .nav_animation:hover::after {
+      width: 10%;
+    }
+  
+}
+
+@media screen and (max-width:915px) and (min-width:791px)
+ {
+
+
+  .container1{
+
+    height: 515px;
+   
+  
+  }
+  .nav_heading{
+  
+     margin-left: 2.7rem;
+     margin-top:4.5rem ;
+
+  }
+  .nav_heading1{
+   
+    margin-left:2.7rem ;
+    margin-top: 1rem;
+    
+    font-size: small;
+  }
+    
+} 
+
+
+
+
+
+
+ 
+@media screen and (max-width:795px) and (min-width:375px)
+ {
+
+
+  .container1{
+
+    height: 315px;
+   
+  
+  }
+  .nav_heading{
+  
+     margin-left: 1rem;
+     margin-top:2.5rem ;
+     font-size: 24px;
+
+  }
+  .nav_heading1{
+   
+    margin-left:1rem ;
+    margin-top: 1rem;
+    
+    font-size: 6px;
+  }
+ .nav_heading1 button{
+  font-size: 10px;;
+ }
+ .hi{
+  text-align: center;
+ }
+    
+} 
+
+ 
+   
+
+
+
+
+
+
+    
+
